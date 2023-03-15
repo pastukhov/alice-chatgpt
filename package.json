@@ -1,0 +1,24 @@
+{
+  "name": "alice-chatgpt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pastukhov/alice-chatgpt.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pastukhov/alice-chatgpt/issues"
+  },
+  "homepage": "https://github.com/pastukhov/alice-chatgpt#readme",
+  "dependencies": {
+    "openai": "^3.2.1",
+    "yandex-dialogs-sdk": "^2.3.0"
+  }
+}
